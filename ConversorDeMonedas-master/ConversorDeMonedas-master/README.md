@@ -27,7 +27,7 @@ El conversor de monedas es una aplicación de consola que se conecta a una API d
 ## Instalación
 
 1. Clona el repositorio en tu máquina local. Abre PowerShell y ejecuta:
-    git clone 
+    git clone https://github.com/Moon18888/ConversorDeMoneda/tree/main/ConversorDeMonedas-master/ConversorDeMonedas-master
    
 2. Navega al directorio del proyecto:
     cd ConversorDeMoneda
